@@ -1,4 +1,5 @@
 class Movie():
+    #object of class movie created and defined.
     def __init__(self,movie_title,movie_rating,movie_release_date,poster_image,trailer_youtube):
         self.title=movie_title
         self.rating=movie_rating
