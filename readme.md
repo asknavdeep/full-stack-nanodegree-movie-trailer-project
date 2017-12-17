@@ -25,6 +25,8 @@ If you don't have python installed
 2. Open fresh_tomatoes.html
 3. Enjoy the trailers of my favourite movies.
 
+
+
 ## Helpful Resources
 * [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 * [How to use list or arrays in Python](https://docs.python.org/2/tutorial/introduction.html#lists)

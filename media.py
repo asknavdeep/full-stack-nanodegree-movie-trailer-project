@@ -1,5 +1,7 @@
 class Movie():
     """Class to store movies"""
+
+    
     def __init__(self,movie_title,movie_rating,movie_release_date,poster_image,trailer_youtube):
         """Constructor method to store data in the objects created in entertainment_center.py"""
         self.title=movie_title                     #The movie title is stored in 'self.title' for the object being given values

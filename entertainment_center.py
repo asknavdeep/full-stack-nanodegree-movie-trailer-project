@@ -1,5 +1,7 @@
 import fresh_tomatoes
 import media
+
+
 #importing python modules to organise code logically
 
     # This is where new objects of the class Movie are created and are given respective values.
