@@ -12,7 +12,12 @@ Aim of this project is to learn how to write an application using object-oriente
 * Comments are used when needed.
 
 ## How to View This Website
-1. Download the source code from my repository at GitHub: https://github.com/MadhurBansal123/full-stack-nanodegree-movie-trailer-project and open fresh_tomatoes.py.
+
+To use this project you must have python installed
+
+1. Download the code or clone the repository
+2. Open entertainment_center.py
+3. Enjoy the trailers of my favourite movies.
 
 ## Helpful Resources
 * [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
